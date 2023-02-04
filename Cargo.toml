@@ -1,12 +1,10 @@
 [package]
-name = "HOP"
+name = "HOLP"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
 description = "A lightweight, higher-order parser"
-repository = "https://github.com/HigherOrderCO/HOP"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+repository = "https://github.com/HigherOrderCO/HOLP"
 
 [dependencies]
 highlight_error = "0.1.1"
