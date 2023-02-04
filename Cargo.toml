@@ -1,10 +1,10 @@
 [package]
-name = "HOLP"
+name = "HOPA"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
 description = "A lightweight, higher-order parser"
-repository = "https://github.com/HigherOrderCO/HOLP"
+repository = "https://github.com/HigherOrderCO/HOPA"
 
 [dependencies]
 highlight_error = "0.1.1"

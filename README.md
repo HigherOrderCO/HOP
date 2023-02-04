@@ -1,7 +1,7 @@
 Higher Order Parser
 ===================
 
-HOP is a lightweight higher-order parser in Rust.
+HOP is a lightweight, higher-order parser in Rust.
 
 Hi-Parser provides a more Haskell-like parser style, and explores the `?` syntax
 of `Result` to have a do-block-like monadic notation. This isn't as good as a
